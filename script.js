@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Yay, see you on the 18th!, Wear semi-formal ;)";
+  question.innerHTML = "Yay! see you on the 14th!, Wear semi-formal ;)";
   gif.src =
     "https://media4.giphy.com/media/F9Z5dbg6Rkn7nf6mAb/giphy.gif?cid=2154d3d70dghsxg4ey8jz5snkyvhmx2gvbmpa8y8vlsvrji8&ep=v1_gifs_related&rid=giphy.gif&ct=g";
 });
